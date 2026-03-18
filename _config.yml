@@ -5,6 +5,7 @@ url: "https://reckless-meherun.github.io"
 baseurl: "/meherunfarzana.portfolio"
 
 lang: en
+future: true
 
 title: "Meherun Farzana"
 description: >
