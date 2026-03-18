@@ -1,9 +1,8 @@
 ---
 layout: about
-image: /assets/img/blog/hydejack-9.jpg
+author: author1
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  AI researcher and computer science student working on NLP, educational AI, and text to sql.
 hide_description: true
 redirect_from:
   - /download/
@@ -12,6 +11,24 @@ redirect_from:
 # About
 
 <!--author-->
+
+## Education
+
+- **2022 - 2026 (expected)**  
+  **B.Sc. in Computer Science & Engineering**, *University of Dhaka*
+
+## Experience
+
+- **Jan 2024 - Present**  
+  **Undergraduate Research Assistant**  
+  Cognitive Agents and Interaction Lab (CAIL), *University of Dhaka*  
+  Working under the supervision of [Dr. Md. Mosaddek Khan](https://scholar.google.com/citations?hl=en&user=IIb6f_4AAAAJ&view_op=list_works&sortby=pubdate)
+
+- Built AI systems and research prototypes in educational AI and semantic grading.
+
+- Developed [**CognifyQ**](https://cognifyq.com/), an AI-powered assessment platform for content ingestion, question generation, and semantic grading of typed and handwritten responses.
+
+- Working on research problems involving bilingual short-answer grading, RAG-based business intelligence, and long-context LLM efficiency.
 
 ## Hydejack
 

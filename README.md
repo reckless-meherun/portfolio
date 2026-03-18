@@ -5,10 +5,13 @@ A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.
 ## Quick Start
 ### Running locally
 1. Clone repository (git users), or [download] and unzip.
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. Run `bundle install` [^1]
-4. Run `bundle exec jekyll serve`
-5. Open <http://localhost:4000/hydejack-starter-kit/>
+2. Open terminal, cd into the root directory (where _config.yml is located).
+3. Run bundle install.
+4. Run chmod +x bin/dev once.
+5. Run ./bin/dev.
+6. Open <http://localhost:4000/meherunfarzana.portfolio/>.
+
+./bin/dev starts Jekyll with live reload enabled, so the browser refreshes automatically when you save changes.
 
 ## What's next?
 * Open files and read the comments

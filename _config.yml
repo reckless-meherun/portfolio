@@ -20,12 +20,11 @@ keywords:
   - Deep Learning
   - Research
   - Bangla NLP
-  - Handwritten Text Recognition
 
-logo: /assets/img/logo.png
+logo: /assets/img/pfp.jpg
 
 author:
-  name: "Meherun"
+  name: "Meherun Farzana"
   email: "meherun2001@gmail.com"
 
 menu:
@@ -35,8 +34,8 @@ menu:
     url: /about/
   - title: Projects
     url: /projects/
-  - title: Publications
-    url: /publications/
+  - title: Research
+    url: /research/
   - title: CV
     url: /cv/
 
