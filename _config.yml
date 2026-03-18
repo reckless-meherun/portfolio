@@ -5,14 +5,13 @@ url: "https://reckless-meherun.github.io"
 baseurl: "/meherunfarzana.portfolio"
 
 lang: en
-future: true
 
 title: "Meherun Farzana"
 description: >
   Personal academic portfolio of Meherun Farzana, featuring research projects,
   publications, interests, and updates in AI, NLP, and related areas.
 
-tagline: "AI Research | NLP | Computer Science"
+tagline: "Computer Science · NLP · AI"
 
 keywords:
   - AI
@@ -22,7 +21,7 @@ keywords:
   - Research
   - Bangla NLP
 
-logo: /assets/img/pfp.jpg
+logo: /assets/img/logo.jpg
 
 author:
   name: "Meherun Farzana"
@@ -31,12 +30,12 @@ author:
 menu:
   - title: Home
     url: /
-  - title: About
-    url: /about/
-  - title: Projects
-    url: /projects/
+  - title: News
+    url: /news/
   - title: Research
     url: /research/
+  - title: Projects
+    url: /projects/  
   - title: CV
     url: /cv/
 

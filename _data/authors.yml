@@ -8,8 +8,8 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    I am Meherun Farzana, a Computer Science and Engineering student at the University of Dhaka. My work focuses on AI research, natural language processing, educational technology, and Bangla handwritten text recognition. My recent interests include large language models, vision-language models, multimodal learning, and human-aligned evaluation systems for student responses. I am particularly interested in building practical AI systems that are both technically strong and useful in real educational settings. Currently, I am working on projects related to short-answer grading, Bangla handwriting recognition, and context-aware language and vision systems.
-    
+    Hi! I am Meherun Farzana, a Computer Science and Engineering student at University of Dhaka. My work focuses on AI, natural language processing and educational technology. My recent interests include large language models, vision-language models, multimodal learning, and human-aligned evaluation systems for student responses. I am particularly interested in building practical AI systems that are both technically strong and useful in real educational settings. Currently, I am working on projects related to short-answer grading, and context-aware language and vision systems.\\
+    > **I expect to graduate by May 2026 and am currently seeking research, internship, collaboration and entry-level opportunities in AI/ML/NLP. I would greatly appreciate it if you could reach out by email regarding any suitable opportunities at [meherun2001@gmail.com](mailto:meherun2001@gmail.com)!**
 # Open `_data/authors.yml` to edit this text.
 
   # This photo will be used in the about section

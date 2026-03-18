@@ -1,5 +1,7 @@
 ---
 layout: about
+title: Home
+permalink: /
 author: author1
 description: >
   AI researcher and computer science student working on NLP, educational AI, and text to sql.
@@ -7,8 +9,6 @@ hide_description: true
 redirect_from:
   - /download/
 ---
-
-# About
 
 <!--author-->
 
@@ -30,7 +30,7 @@ redirect_from:
 
 - Working on research problems involving bilingual short-answer grading, RAG-based business intelligence, and long-context LLM efficiency.
 
-## Hydejack
+<!-- ## Hydejack
 
 A boutique Jekyll theme for hackers, nerds, and academics.  
 {:.lead}
@@ -65,12 +65,12 @@ Hydejack is all static sites. _HTML_. All you need is a web server — any web s
 <!--posts-->
 
 
-## An Impressive Portfolio
-A portfolio that's guaranteed to be impressive — no matter what you put into it.
+<!-- ## An Impressive Portfolio
+A portfolio that's guaranteed to be impressive — no matter what you put into it. -->
 
 <!--projects-->
 
-
+<!-- 
 ## A Printable Resume
 Get a resume that's consistent across the board — whether it's on the web, mobile, print, or [PDF](/assets/Resume.pdf).
 
@@ -94,22 +94,22 @@ The Hydejack blog, as seen by the text browser `w3m`.
 
 
 ## Syntax Highlighting
-**Hydejack** features syntax highlighting, powered by [Rouge].
-
+**Hydejack** features syntax highlighting, powered by [Rouge]. -->
+<!-- 
 ```html
 <!-- file: `_includes/my-body.html` -->
-<script type="module">
+<!-- <script type="module">
   document.querySelector("hy-push-state").addEventListener("hy-push-state-load", () => {
     const supportsCodeHighlights = false; // TBD!!
   });
-</script>
-```
+</script> -->
+<!-- ``` -->
 
-Code blocks can have a filename and a caption.
-{:.figcaption}
+<!-- Code blocks can have a filename and a caption.
+{:.figcaption} -->
 
 
-## Beautiful Math
+<!-- ## Beautiful Math
 They say math is beautiful — and with **Hydejack**'s [math support][math] it's guaranteed to also look beautiful:
 
 $$
@@ -146,9 +146,9 @@ Hydejack uses KaTeX to efficiently render math.
 
 ## Get It Now
 
-Use the the form below to purchase Hydejack PRO:
+Use the the form below to purchase Hydejack PRO: --> 
 
-<div class="gumroad-product-embed" data-gumroad-product-id="nuOluY"><a href="https://gumroad.com/l/nuOluY">Loading…</a></div>
+<!-- <div class="gumroad-product-embed" data-gumroad-product-id="nuOluY"><a href="https://gumroad.com/l/nuOluY">Loading…</a></div>
 
 [jekyll]: https://jekyllrb.com
 
@@ -181,4 +181,4 @@ Use the the form below to purchase Hydejack PRO:
 [gpss]: https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fhydejack.com%2Fdocs%2F
 [rouge]: http://rouge.jneen.net
 [katex]: https://khan.github.io/KaTeX/
-[mathjax]: https://www.mathjax.org/
+[mathjax]: https://www.mathjax.org/ -->

@@ -1,0 +1,76 @@
+---
+layout: base
+---
+
+<h1 class="projects-page-title">{{ page.title | upcase }}</h1>
+
+<div class="projects-list">
+  {% assign projects = site.projects | sort: "date" | reverse %}
+
+  {% for project in projects %}
+    <article class="project-entry">
+      <div class="project-header">
+        <h2 class="project-title">{{ project.title }}</h2>
+        <div class="project-date">{{ project.date | date: "%B %Y" }}</div>
+      </div>
+
+      {% if project.course %}
+        <p class="project-course">
+          Course: {{ project.course }}
+        </p>
+      {% endif %}
+
+      <ul class="project-details">
+        {% if project.highlights %}
+          {% for item in project.highlights %}
+            <li>{{ item }}</li>
+          {% endfor %}
+        {% elsif project.summary %}
+          <li><strong>Summary:</strong> {{ project.summary }}</li>
+        {% endif %}
+
+        {% if project.github %}
+          <li>
+            <strong>GitHub:</strong>
+            <a href="{{ project.github }}">Repository</a>
+          </li>
+        {% endif %}
+
+        {% if project.github_frontend %}
+          <li>
+            <strong>GitHub:</strong>
+            <a href="{{ project.github_frontend }}">Frontend Repository</a>
+          </li>
+        {% endif %}
+
+        {% if project.github_backend %}
+          <li>
+            <strong>GitHub:</strong>
+            <a href="{{ project.github_backend }}">Backend Repository</a>
+          </li>
+        {% endif %}
+
+        {% if project.demo %}
+          <li>
+            <strong>Demo:</strong>
+            <a href="{{ project.demo }}">Open</a>
+          </li>
+        {% endif %}
+
+        {% if project.paper %}
+          <li>
+            <strong>Paper:</strong>
+            <a href="{{ project.paper }}">View</a>
+          </li>
+        {% endif %}
+
+        {% if project.youtube %}
+          <li>
+            <strong>YouTube:</strong>
+            <a href="{{ project.youtube }}">Watch</a>
+          </li>
+        {% endif %}
+      </ul>
+    </article>
+  {% endfor %}
+</div>
