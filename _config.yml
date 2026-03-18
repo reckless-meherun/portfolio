@@ -90,8 +90,8 @@ kramdown:
   footnote_backlink: "&#x21a9;&#xfe0e;"
 
 hydejack:
-  post_addons: [about, newsletter, related, random, comments]
-  project_addons: [about, newsletter, other, comments]
+  post_addons: [related]
+  project_addons: [other]
   no_mark_external: false
   no_push_state: false
   no_drawer: false
