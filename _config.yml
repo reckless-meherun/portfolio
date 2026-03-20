@@ -40,7 +40,7 @@ menu:
 
 legal: []
 
-copyright: "© 2026 Meherun Farzana. All rights reserved."
+# copyright: "© 2026 Meherun Farzana."
 
 permalink: /:categories/:year-:month-:day-:title/
 
