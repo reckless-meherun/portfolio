@@ -42,6 +42,7 @@ This portfolio includes:
     ```bash
     http://127.0.0.1:4002/
 ## Repository Structure
+```bash
 .
 ├── _config.yml              # Main site configuration
 ├── _data/
