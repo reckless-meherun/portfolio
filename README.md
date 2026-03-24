@@ -1,4 +1,4 @@
-# Meherun Farzana — Academic Portfolio
+# My Academic Portfolio
 
 This repository contains my personal academic portfolio website, built with Jekyll and the Hydejack theme. It presents my academic background, research interests, publications, projects, news, and selected activities.
 
