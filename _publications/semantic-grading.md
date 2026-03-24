@@ -3,9 +3,12 @@ layout: publication
 title: Semantic Grading of Written Answers in Low-Resource Language Bangla Using a Fine-Tuned Lightweight Language Model
 status: preprint
 description: >
-  
+  <ul>
+    <li>Fine-tuned a lightweight language model to grade responses (Bangla and English) from the question, reference answer, and student answer, returning a numeric score and concise context-grounded feedback.</li>
+    <li>Constructed a synthetic bilingual dataset for controlled training and evaluation, yielding stronger human-score agreement than several proprietary baselines.</li>
+  </ul>
 image: /assets/img/publications/cognifyq_method_horizontal_2.png
-venue: <strong>ACL System Demonstration 2026</strong> (under review)
+venue: <strong>ACL System Demonstration 2026</strong> <i>(under review)</i>
 authors: <strong>Meherun Farzana*</strong>, Aniket Joarder*, Mahmudul Hasan, Md. Mosaddek Khan
 # paper_link: /assets/papers/cognifyq.pdf
 website_link: https://cognifyq.com/

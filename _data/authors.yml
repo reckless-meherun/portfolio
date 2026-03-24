@@ -8,20 +8,20 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hi! I am Meherun Farzana, a senior undergraduate student in **Computer Science and Engineering** at [**University of Dhaka**](https://www.du.ac.bd/body/CSE). My work focuses on **natural language processing** and **AI in education**. Automatically evaluating the semantic and contextual depth of complex handwritten figures is what recently fascinates me the most. Currently, I work as a **Research Assistant** at **Cognitive Agents and Interaction Lab** [**(CAIL)**](https://cognistorm.ai/) under the supervision of [**Dr. Md. Mosaddek Khan**](https://scholar.google.com/citations?user=IIb6f_4AAAAJ&hl=en). My recent interests include:
+    Hi! I am Meherun Farzana, a senior undergraduate student in **Computer Science and Engineering** at [**University of Dhaka**](https://www.du.ac.bd/body/CSE). My work focuses on **natural language processing** and **AI in education**. Automatically evaluating the semantic and contextual depth of complex hand-drawn figures is what recently fascinates me the most. Currently I work as a **Research Assistant** at **Cognitive Agents and Interaction Lab** [**(CAIL)**](https://cognistorm.ai/) under the supervision of [**Dr. Md. Mosaddek Khan**](https://scholar.google.com/citations?user=IIb6f_4AAAAJ&hl=en). It is very recent that I am involved in translating natural business questions into correct SQLs efficiently, which is a crucial application for various press conferences. My recent interests include:
     - **Large Language Models**
     - **Computer Vision**
     - **Multimodal Reasoning**
     > <span class="highlight-opportunity">**I am expected to graduate by May 2026 and currently seeking research collaborations, internship and entry-level opportunities worldwide. I would highly appreciate it if you would reach me out regarding any suitable opportunities at [meherun2001@gmail.com](mailto:meherun2001@gmail.com)!**</span>
 # Open `_data/authors.yml` to edit this text.
 
-  # This photo will be used in the about section
-  picture:
-    path:            /assets/img/pfp.jpg
-    # srcset is optional, but can be used to provide higher res versions for retina displays
-    srcset:
-      1x:            /assets/img/pfp.jpg
-      2x:            /assets/img/pfp.jpg
+  # # This photo will be used in the about section
+  # picture:
+  #   path:            /assets/img/pfp.jpg
+  #   # srcset is optional, but can be used to provide higher res versions for retina displays
+  #   srcset:
+  #     1x:            /assets/img/pfp.jpg
+  #     2x:            /assets/img/pfp.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
@@ -32,6 +32,8 @@ author1:
     github:          https://github.com/reckless-meherun
     email:           meherun2001@gmail.com
     # rss:             https://<url>/feed.xml
+    linkedin:        https://linkedin.com/in/meherun-farzana
+    instagram:       https://www.instagram.com/meherun_farzana/
     facebook:        https://www.facebook.com/meherun.farzana.5/
     # google:          <number>
     # vk:              <username>
@@ -40,8 +42,7 @@ author1:
     # vine:            <username>
     # spotify:         <user>/<number>
     # soundcloud:      <username>
-    # lastfm:          <username>
-    # instagram:       <username>
+    # lastfm:          <username>    
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -59,7 +60,6 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        https://linkedin.com/in/meherun-farzana
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>

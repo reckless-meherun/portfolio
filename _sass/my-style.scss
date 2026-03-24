@@ -15,6 +15,24 @@
   }
 }
 
+main.content article p,
+main.content article li,
+main.content article blockquote p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+main.content {
+  line-height: 1.45;
+}
+
+main.content p,
+main.content li,
+main.content blockquote,
+main.content div {
+  line-height: 1.45;
+}
+
 .highlight-opportunity {
   color: rgb(79, 177, 186);
 }
